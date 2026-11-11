@@ -2,7 +2,7 @@
 
 **Building end-to-end AI systems — from raw data to production.**
 
-📧 ziyadelshazly11@gmail.com &nbsp;|&nbsp; 📍 Sohag, Egypt &nbsp;|&nbsp; [LinkedIn](#) &nbsp;|&nbsp; [GitHub](#) &nbsp;|&nbsp; [Kaggle](https://www.kaggle.com/ziyadelshazly)
+📧 ziyadelshazly11@gmail.com &nbsp;|&nbsp; 📍 Sohag, Egypt &nbsp;|&nbsp; [LinkedIn](www.linkedin.com/in/ziyad-elshazly-47887236a) &nbsp;|&nbsp; [GitHub](#) &nbsp;|&nbsp; [Kaggle](https://www.kaggle.com/ziyadelshazly)
 
 ---
 
